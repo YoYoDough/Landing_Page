@@ -1,0 +1,16 @@
+body{
+    font: robledo;
+}
+.topnav {
+      background-color: black;
+      color: white;
+      overflow: hidden;
+      font-size: 50px;
+      gap: 30px;
+ }
+.topnav a{
+    display: flex;
+    font-size: 30px;
+    justify-content: right;
+
+}
