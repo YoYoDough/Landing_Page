@@ -5,12 +5,20 @@ body{
       background-color: black;
       color: white;
       overflow: hidden;
+      display: flex;
       font-size: 50px;
-      gap: 30px;
+      gap: 325px;
+      margin:0
  }
 .topnav a{
     display: flex;
     font-size: 30px;
-    justify-content: right;
-
+}
+.Description{
+    font-size: 50px;
+    padding: 100px;
+    background-color: lightblue;
+}
+.Description p{
+    color: White;
 }
