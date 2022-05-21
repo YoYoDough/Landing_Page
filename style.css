@@ -15,10 +15,11 @@ body{
     font-size: 30px;
 }
 .Description{
-    font-size: 50px;
+    font-size: 40px;
     padding: 100px;
     background-color: lightblue;
 }
 .Description p{
+    font-size: 20px;
     color: White;
 }
