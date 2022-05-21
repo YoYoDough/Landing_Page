@@ -20,6 +20,16 @@ body{
     background-color: lightblue;
 }
 .Description p{
-    font-size: 20px;
+    font-size: 50px;
     color: White;
+}
+.Description dl{
+    font-size: 20px;
+    color: black;
+}
+
+img {
+    display:block;
+    width: 100px;
+    height: 100px;
 }
