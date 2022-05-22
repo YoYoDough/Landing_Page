@@ -1,5 +1,7 @@
 body{
     font: robledo;
+    padding:0;
+    margin:0;
 }
 .topnav {
       background-color: black;
@@ -8,7 +10,7 @@ body{
       display: flex;
       font-size: 50px;
       gap: 325px;
-      margin:0
+      margin:0;
  }
 .topnav a{
     display: flex;
@@ -16,7 +18,7 @@ body{
 }
 .Description{
     font-size: 40px;
-    padding: 100px;
+    padding: 50px;
     background-color: lightblue;
 }
 .Description p{
@@ -27,8 +29,16 @@ body{
     font-size: 20px;
     color: black;
 }
-
-img {
+.Info{
+    font-size: 20px;
+    text-align: center; 
+}
+.Infodescription{
+    width: auto;
+    background-color: aqua;
+    text-align: right;
+}
+/* img {
     float: right;
     margin: 0 0 0 15px;
     height: 300px;
@@ -36,4 +46,4 @@ img {
     position: relative;
     bottom: 300px;
     right: 200px;
-}
+} */
