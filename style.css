@@ -18,7 +18,7 @@
     font-size: 40px;
     padding: 50px;
     background-color: lightblue;
-    height: auto;
+    height: 400px;
 }
 .Description p{
     font-size: 50px;
@@ -33,17 +33,20 @@
     text-align: center; 
 }
 .Infodescription{
-    display: flex;
-    width: auto;
     background-color: aqua;
+    padding: 50px;
 }
 .Infodescription p{
-    border: 115px ;
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20 px;
+    border-color: black;
 }
  .Description img {
-    height: 150px;
+    height: 300px;
     width: 575px;
     position: relative;
     left: 700px;
-    bottom: 200px; 
+    bottom: 300px; 
 } 
