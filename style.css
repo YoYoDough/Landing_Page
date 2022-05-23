@@ -42,6 +42,7 @@
 .Info{
     font-size: 20px;
     text-align: center; 
+    margin: 50px;
 }
 .Infodescription{
     background-color: white;
