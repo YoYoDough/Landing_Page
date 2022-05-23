@@ -17,7 +17,7 @@
 .Description{
     font-size: 40px;
     padding: 50px;
-    background-color: lightblue;
+    background-color: rgb(40, 49, 73);
     height: 400px;
 }
 .Description p{
@@ -34,18 +34,34 @@
 }
 .Infodescription{
     background-color: white;
-    padding: 50px;
+    padding: 0;
     display: flex;
     flex-direction: row;
-    gap: 300px;
+    gap: 500px;
 }
-.Infodescription p{
+.Infodescription img{
     width: 300px;
+    border-radius: 25px;
     border: 2px solid green;
-    padding: 50px;
     margin: 20 px;
-    border-color: black;
+    border-color: blue;
 }
+.InfoImage{
+    background-color: white;
+    padding: 20px;
+    display: flex;
+    height: min-content;
+    flex-direction: row;
+    gap: 500px;
+}
+.InfoImage p{
+    background-color: white;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    gap: 500px;
+}
+
  .Description img {
     height: 300px;
     width: 575px;
