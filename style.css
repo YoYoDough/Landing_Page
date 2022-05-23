@@ -79,3 +79,26 @@
     position: relative;
     right: 300px;
 }
+.SignUp {
+    padding: 100px;
+    margin: 100px;
+    background-color: skyblue;
+}
+.SignUp p{
+    font-size: 40px;
+    background-color: light skyblue;
+}
+.SignUp dl{
+    font-size: 20px;
+}
+.SignUp p1{
+    padding: 20px;
+    border: 2px solid green;
+    border-color: blue;
+    width: 100px;
+    border-radius: 25px;
+    font-size: 25px;
+    position: relative;
+    left:1300px;
+    bottom: 70px;
+}
