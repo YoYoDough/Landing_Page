@@ -34,10 +34,9 @@
     padding: 10px;
     position: relative;
     bottom: 130px;
-    background-color: blue;
+    background-color: rgb(60, 190, 241);;
     border-radius: 20px;
-    border: 2px solid green;
-    border-color: blue;
+    
 }
 .Info{
     font-size: 20px;
@@ -54,9 +53,10 @@
 .Infodescription img{
     width: 300px;
     border-radius: 25px;
-    border: 2px solid green;
+    border: 2px;
     margin: 20 px;
-    border-color: blue;
+    position:relative;
+    left: 1px;
 }
 .InfoImage{
     font-weight: bold;
@@ -93,9 +93,10 @@
     right: 300px;
 }
 .SignUp {
-    padding: 100px;
-    margin: 100px;
-    background-color: rgb(8, 8, 247);
+    padding: 20px;
+    margin: 120px;
+    border-radius: 20px;
+    background-color: rgb(60, 190, 241);
 }
 .SignUp p{
     font-size: 40px;
@@ -122,4 +123,5 @@
     padding: 20px;
     color: white;
     text-align: center;
+    font-weight: bold;
 }
