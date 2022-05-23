@@ -28,6 +28,17 @@
     font-size: 20px;
     color: white;
 }
+.Description p1{
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    position: relative;
+    bottom: 130px;
+    background-color: blue;
+    border-radius: 20px;
+    border: 2px solid green;
+    border-color: blue;
+}
 .Info{
     font-size: 20px;
     text-align: center; 
@@ -47,6 +58,7 @@
     border-color: blue;
 }
 .InfoImage{
+    font-weight: bold;
     background-color: white;
     padding: 20px;
     display: flex;
