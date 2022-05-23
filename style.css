@@ -1,5 +1,5 @@
 *{
-    font-family: roboto;
+    font: roboto;
 }
 .topnav {
       background-color: rgb(40, 49, 73);
@@ -82,23 +82,31 @@
 .SignUp {
     padding: 100px;
     margin: 100px;
-    background-color: skyblue;
+    background-color: rgb(8, 8, 247);
 }
 .SignUp p{
     font-size: 40px;
-    background-color: light skyblue;
+    color: white;
 }
 .SignUp dl{
     font-size: 20px;
+    color: white;
 }
 .SignUp p1{
+    color: white;
     padding: 20px;
     border: 2px solid green;
-    border-color: blue;
+    border-color: white;
     width: 100px;
     border-radius: 25px;
     font-size: 25px;
     position: relative;
-    left:1300px;
+    left:1000px;
     bottom: 70px;
+}
+.copyright{
+    background-color:rgb(40, 49, 73);
+    padding: 20px;
+    color: white;
+    text-align: center;
 }
